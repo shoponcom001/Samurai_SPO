@@ -4,5 +4,5 @@
 "discordId":"872340620734251008",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/shoponcom001/Samurai_SPO/main/poolMetaData.json",
-"validation":"https://xstakepool.com/sjg-validation.json"
+"validation":"https://raw.githubusercontent.com/shoponcom001/Samurai_SPO/main/sjg-validation.json"
 }
